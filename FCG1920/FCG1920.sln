@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCG1920", "FCG1920\FCG1920.csproj", "{7186A386-600F-486E-B639-9EFC24F8D764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7186A386-600F-486E-B639-9EFC24F8D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7186A386-600F-486E-B639-9EFC24F8D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7186A386-600F-486E-B639-9EFC24F8D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7186A386-600F-486E-B639-9EFC24F8D764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B659390-9A72-45E2-970B-77519528D624}
+	EndGlobalSection
+EndGlobal
