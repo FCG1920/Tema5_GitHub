@@ -42,7 +42,13 @@ namespace FCG1920
 	                    miAlumnoNotaTexto = "Notable";
                     } 
                     else
-	                    miAlumnoNotaTexto = "Sobresaliente";
+                        //Modifico la aplicación para la parte 6 de la práctica
+                        if (miAlumno.Nota < 10)
+                        {
+                            miAlumnoNotaTexto = "Sobresaliente";
+                        }
+	                    else
+                            miAlumnoNotaTexto = "Matrícula de Honor";
 
             miAlumnoStr = aluNombre.Text + " " + aluNota.Text + " " + miAlumnoNotaTexto +"\n";
             listaAlumnos.AppendText(miAlumnoStr);
