@@ -33,9 +33,6 @@ namespace FCG1920
         }
     }
 
-
-
-
     class Alumno
     {
         private string nombre;
